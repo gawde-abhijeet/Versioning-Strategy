@@ -1,0 +1,10 @@
+{
+  "name": "Versioning-Strategy",
+  "version": "0.0.0",
+  "description": "Versioning-Strategy",
+  "main": "app.js",
+  "author": {
+    "name": "abhijeet.gawde",
+    "email": ""
+  }
+}
