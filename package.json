@@ -1,0 +1,19 @@
+{
+  "name": "versioning-strategy",
+  "version": "1.0.0",
+  "description": "Working solution on the versioning strategies to define the release versions using Git Tagging.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gawde-abhijeet/Versioning-Strategy.git"
+  },
+  "author": "gawde-abhijeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gawde-abhijeet/Versioning-Strategy/issues"
+  },
+  "homepage": "https://github.com/gawde-abhijeet/Versioning-Strategy#readme"
+}
